@@ -1,0 +1,29 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-o",
+      "Clipboard.o",
+      "Clipboard.cpp"
+    ],
+    "directory": "/home/harsh/Project/clipsync",
+    "file": "/home/harsh/Project/clipsync/Clipboard.cpp",
+    "output": "/home/harsh/Project/clipsync/Clipboard.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "Clipboard.o",
+      "dep/zwlr-data-control.o",
+      "-Wall",
+      "-o",
+      "main",
+      "main.cpp"
+    ],
+    "directory": "/home/harsh/Project/clipsync",
+    "file": "/home/harsh/Project/clipsync/main.cpp",
+    "output": "/home/harsh/Project/clipsync/main"
+  }
+]
