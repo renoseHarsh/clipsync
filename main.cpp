@@ -1,5 +1,4 @@
 #include "Clipboard.hpp"
-#include <string>
 #include <thread>
 #include <uWebSockets/App.h>
 

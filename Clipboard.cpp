@@ -1,5 +1,5 @@
 #include "Clipboard.hpp"
-#include "dep/zwlr-data-control-unstable-v1-client-protocol.h"
+#include "dep/wlr-data-control-unstable-v1-client-protocol.h"
 #include <iostream>
 #include <sstream>
 #include <string>

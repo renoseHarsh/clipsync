@@ -1,0 +1,15 @@
+# build
+./main
+*.o
+
+# wayland generated code
+dep/*.h
+dep/*.c
+dep/*.o
+
+# cert
+misc/*.pem
+
+compile_commands.json
+
+.cache/
