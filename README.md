@@ -45,7 +45,7 @@ The Android side is just a WebSocket consumer — receive text, insert into syst
 ## Requirements
 
 - Wayland compositor using **wlr-data-control** (tested on Hyprland)
-- C++20 toolchain
+- gcc
 - OpenSSL
 - uWebSockets
 - pkg-config
